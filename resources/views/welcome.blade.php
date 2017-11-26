@@ -79,18 +79,15 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Under Construction
+                    Protein Power
                 </div>
 
-<!--
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://www.bodybuilding.com/store/whey.html">Whey</a>
+                    <a href="https://www.bodyenfitshop.nl/eiwittenwhey/eiwitten-alle/body-fit-sportsnutrition/perfect-protein/">Protein</a>
+                    <a href="https://www.bodyenfitshop.nl/creatine/">Creatine</a>
+                    <a href="https://www.bodybuilding.com/recipes/pizza-pancakes">Recipes</a>
                 </div>
--->
             </div>
         </div>
     </body>
