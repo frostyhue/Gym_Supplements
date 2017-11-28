@@ -24,9 +24,14 @@ Route::get('/contact', function () {
 });
 
 Route::get('/less', function () {
-    return view('less');
+  $articles = DB::table('articles')->get();
+
+  return view('less', ['articles' => $articles]);
 });
 
 Route::get('/more', function () {
-    return view('more');
+
+    $articles = DB::table('articles')->get();
+
+    return view('more', ['articles' => $articles]);
 });
