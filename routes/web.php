@@ -35,3 +35,11 @@ Route::get('/more', function () {
 
     return view('more', ['articles' => $articles]);
 });
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
